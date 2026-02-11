@@ -19,10 +19,17 @@ Embed AI directly into real work with:
 - AI-assisted enablement workflows
 - Notes on prompt and context strategy
 
+## Case Studies
+
+Detailed examples of cross-functional operating models in practice:
+
+- [Enterprise Customer Activation Operating Model](case-studies/enterprise-customer-activation.md)  
+  Centralized ownership of onboarding across 600+ activations, driving predictable time-to-value and ~80% stronger renewal/expansion likelihood.
+
 ## Tools
 - Cursor
 - ChatGPT
 - GitHub
 
 ## Status
-Actively evolving.
+Production-ready operating models designed for scale.
