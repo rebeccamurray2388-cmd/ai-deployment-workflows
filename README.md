@@ -1,35 +1,65 @@
-# AI Deployment & Adoption Workflows
+AI Deployment & Adoption Workflows
 
-This repository documents practical, real-world workflows that help teams move from
-first exposure to sustained, high-leverage daily usage of AI tools.
+This repository documents production-grade operating systems that integrate AI directly into enterprise tooling and workflows. The focus is operational integration — embedding AI into systems of record, workflow automation, and governance structures to drive measurable outcomes at scale.
 
-## Problem
-Teams adopt powerful tools, but usage stalls when workflows, ownership,
-and enablement don’t scale.
+Problem
 
-## Approach
-Embed AI directly into real work with:
-- clear rollout sequencing
-- lightweight guardrails
-- early usage signals
-- enablement that scales without headcount
+Teams adopt AI tools, but usage fragments when workflows remain manual, ownership is unclear, and system integration is shallow. Without structured deployment, AI becomes assistive rather than embedded — increasing cognitive load instead of reducing it.
 
-## Artifacts
-- Deployment and adoption playbooks
-- AI-assisted enablement workflows
-- Notes on prompt and context strategy
+Approach
 
-## Case Studies
+Integrate AI into live systems by:
 
-Detailed examples of cross-functional operating models in practice:
+Embedding logic into systems of record (e.g., Salesforce)
 
-- [Enterprise Customer Activation Operating Model](case-studies/enterprise-customer-activation.md)  
-  Centralized ownership of onboarding across 600+ activations, driving predictable time-to-value and ~80% stronger renewal/expansion likelihood.
+Syncing structured attributes via reverse ETL (e.g., Hightouch)
 
-## Tools
-- Cursor
-- ChatGPT
-- GitHub
+Converting qualitative inputs into structured signals
 
-## Status
-Production-ready operating models designed for scale.
+Automating routing and enrollment workflows via system integration
+
+Installing measurable governance and early performance indicators
+
+The objective is workflow-level integration — not surface-level tool adoption.
+
+Artifacts
+
+Production implementations include:
+
+AI-assisted intake classification workflows
+
+Structured routing logic embedded into CRM + LMS systems
+
+Modular, version-controlled operating frameworks
+
+Governance dashboards and signal tracking
+
+Deployment sequencing playbooks
+
+All artifacts are designed to reduce manual coordination, improve signal integrity, and enable scalable iteration.
+
+Case Studies
+
+Examples of AI embedded into live operating environments:
+
+Enterprise Customer Activation Operating Model
+Centralized onboarding governance across 600+ activations, improving time-to-value and renewal predictability.
+
+AI-Embedded Operating Model Deployment (Partner Ecosystem)
+Increased accreditation adoption by 35% (200+ Advocates certified), raised partner-engaged ARR from 10% to 14%, and enabled AI-assisted routing for 50+ concurrent participants without incremental headcount.
+
+Systems & Tooling
+
+Salesforce (system of record)
+
+Hightouch (reverse ETL / attribute normalization)
+
+LMS integration for automated enrollment
+
+Generative models for signal extraction and content restructuring
+
+GitHub for documentation + version control
+
+Status
+
+Production-tested, cross-functional operating models built for enterprise deployment and iterative scale.
